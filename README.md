@@ -1,13 +1,11 @@
 ### Hi there
 <br />
-Hi, my name is Andrey Chella I am junior backend developer,
-now I mostly make freelance projects and my own projects
-in free time. And I like to contribute in open-source
+Experienced developer with deep Python and JavaScript knowlange. Focusing on creating web applications, automation tasks and working with APIs. I strive for effective and safe solutions using modern technologies and best practices.
 
 
 <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-- 💬 If you have any questions, reach me chella05andrey@gmail.com
+- 💬 If you have any questions, reach me chella05andrey@gmail.com or https://t.me/andreychella
 
 **languages and tools:**
 
