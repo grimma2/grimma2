@@ -1,6 +1,6 @@
-### Hi there
+### Hi there 👋
 <br />
-Experienced developer with deep Python and JavaScript knowlange. Focusing on creating web applications, automation tasks and working with APIs. I strive for effective and safe solutions using modern technologies and best practices.
+Full Stack developer in Python, JavaScript with a focus on Backend, open to learning new technologies. I seek for effective and optimized solutions using modern technologies and best practices.
 
 
 <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
